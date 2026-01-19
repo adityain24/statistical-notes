@@ -1,4 +1,4 @@
-Concept mean mode median 
+Concept mean mode median /n
 Central Limit Theorem 
 Chi Square Test 
 Z Test 
